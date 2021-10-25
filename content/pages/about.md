@@ -21,7 +21,7 @@ sections:
   - type: team_section
     title: Our Team
     team:
-      - content/data/team/dianne-ameter.yaml
+      - content/data/team/phillip-hubbard.yaml
 
   - type: cta_section
     title: Join the Team
