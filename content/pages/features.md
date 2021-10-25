@@ -53,7 +53,7 @@ sections:
           truly world-class service. In addition, high-end firewalls protect our
           networks and provide industry-leading security and performance.
         align: left
-        image: /images/hybridcloud.png
+        image: /images/cloudlogos3.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
