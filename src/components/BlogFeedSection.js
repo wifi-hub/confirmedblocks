@@ -91,7 +91,7 @@ export default class BlogFeedSection extends React.Component {
                 {title && (
                     <div className="container container--md align-center">
                         <div
-className={classNames('section__body', 'align-center', {
+                        className={classNames('section__body', 'align-center', {
                             'inverse': hasBackground && backgroundColor === 'blue',
                             'bg-blue': hasBackground && backgroundColor === 'blue',
                             'bg-gray': hasBackground && backgroundColor === 'gray'
