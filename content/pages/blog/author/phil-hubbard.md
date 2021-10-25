@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-    author: content/data/team/dianne-.yaml
+    author: content/data/team/dianne-hubbard.yaml
 seo:
   title: Posts by Dianne Ameter
   description: This is the author archive page
