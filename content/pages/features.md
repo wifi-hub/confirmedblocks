@@ -15,7 +15,7 @@ sections:
           high-performance service that does not cost an arm and a leg to
           operate.
         align: left
-        image: images/feature.svg
+        image: /images/low-cost.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
