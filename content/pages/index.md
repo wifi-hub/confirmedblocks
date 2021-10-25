@@ -29,7 +29,7 @@ sections:
       - title: Coming Dec 2021
         content: "Non-custodial staking means you always keep your assets in your wallet. By delegating to our stake pool, you promote a healthy, decentralized network while safely earning rewards.\_\_\n\n**Coming soon ticker: ConfirmedBlocks**\n\nCardano (ADA) is a blockchain platform built on a proof-of-stake consensus protocol (Ouroboros) that validates transactions without high energy costs. Development on Cardano uses the Haskell programming language, described as enabling Cardano \"to pursue evidence-based development for unparalleled security and stability.\" The blockchain's native token, ADA, is named after the 19th-century mathematician Ada Lovelace.\n\n**RESOURCES:**\n\n*   [Whitepaper](https://www.cardano.org/)\n\n*   [Official website](https://docs.cardano.org/en/latest/)\n\n*   [Cardano | Stake Pool Operation](https://cardano.org/stake-pool-operation#what-is-staking)\n"
         align: left
-        image: /images/cardano-ada-2.jpg
+        image: /images/Logo-Cardano.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
