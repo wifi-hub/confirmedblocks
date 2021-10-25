@@ -8,7 +8,7 @@ sections:
     show_recent: false
     author: content/data/team/phil-hubbard.yaml
 seo:
-  title: Posts by Dianne Ameter
+  title: Posts by Phillip Hubbard
   description: This is the author archive page
   extra:
     - name: 'og:type'
