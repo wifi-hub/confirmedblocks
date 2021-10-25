@@ -113,7 +113,7 @@ seo:
     - name: 'twitter:title'
       value: Starter Theme
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Starter Theme
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
