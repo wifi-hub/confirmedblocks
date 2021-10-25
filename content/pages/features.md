@@ -24,20 +24,10 @@ sections:
             style: primary
       - title: Private Hosting
         content: >
-          Initial pool offerings live in our on-premise enterprise-class servers
-          and virtualization technology. In addition, we maintain all SSD
-          storage, dual internet, and standby batteries to ensure our service is
-          always available.
-
-
-          As the pool grows, we will transition to a hybrid cloud model. Our
-          builds are fully automated and designed for multi-cloud deployments on
-          AWS, Azure, and Google.
-
-
-          We secure all our web assets using nextgen security tools to deliver a
-          truly world-class service. In addition, high-end firewalls protect our
-          networks and provide industry-leading security and performance.
+          As ConfirmedBlocks grows, we plan on implementing a voting system to
+          allow our investors to determine what currencies are onboarded. We
+          genuinely believe in a community-first model. When customers are
+          engaged in the business, we all succeed!
         align: left
         image: /images/cryptocoins.jpg
         image_alt: Feature 2 placeholder image
