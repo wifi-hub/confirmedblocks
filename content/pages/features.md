@@ -8,10 +8,12 @@ sections:
   - type: features_section
     features:
       - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Our mission is to maximize the benefits for our investors. We are
+          reducing operational costs by leveraging automation, monitoring, and
+          maintenance of our systems. The goal is to provide a secure,
+          high-performance service that does not cost an arm and a leg to
+          operate.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
