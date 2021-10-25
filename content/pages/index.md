@@ -81,7 +81,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: ConfirmedBlocks
-    subtitle: Thank you for Choosing us to Stake your currencies!
+    subtitle: Thank you for choosing us to stake your currencies!
     actions:
       - label: Learn More
         url: /features
