@@ -19,7 +19,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-      - title: Community Voting
+      - title: Your vote counts!
         content: >+
           As ConfirmedBlocks grows, we plan on implementing a voting system to
           allow our investors to determine what currencies are onboarded. We
