@@ -18,10 +18,7 @@ sections:
         image: /images/low-cost-861d2381.png
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /about
-            style: primary
+        actions: []
       - title: Community Voting
         content: |
           We will offer community voting for the next staking pools
