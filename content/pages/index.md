@@ -92,7 +92,7 @@ sections:
     has_background: true
     background_color: blue
 seo:
-  title: Stackbit Starter Theme
+  title: ConfirmedBlocks Theme
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
