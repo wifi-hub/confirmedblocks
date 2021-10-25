@@ -22,6 +22,21 @@ sections:
           - label: Learn More
             url: /about
             style: primary
+      - title: Low Fees
+        content: >
+          Our mission is to maximize the benefits for our investors. We are
+          reducing operational costs by leveraging automation, monitoring, and
+          maintenance of our systems. The goal is to provide a secure,
+          high-performance service that does not cost an arm and a leg to
+          operate.
+        align: left
+        image: /images/low-cost-861d2381.png
+        image_alt: Feature 1 placeholder image
+        image_position: right
+        actions:
+          - label: Learn More
+            url: /about
+            style: primary
       - title: Private Hosting
         content: >
           Initial pool offerings live in our on-premise enterprise-class servers
