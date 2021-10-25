@@ -23,12 +23,8 @@ sections:
             url: /about
             style: primary
       - title: Community Voting
-        content: >
-          Our mission is to maximize the benefits for our investors. We are
-          reducing operational costs by leveraging automation, monitoring, and
-          maintenance of our systems. The goal is to provide a secure,
-          high-performance service that does not cost an arm and a leg to
-          operate.
+        content: |
+          We will offer community voting for the next staking pools
         align: left
         image: /images/cryptocoins-2176a4b6.jpg
         image_alt: Feature 1 placeholder image
