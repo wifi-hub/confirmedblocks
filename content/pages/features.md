@@ -22,7 +22,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Private Hosting
+      - title: Your vote counts!
         content: >
           As ConfirmedBlocks grows, we plan on implementing a voting system to
           allow our investors to determine what currencies are onboarded. We
