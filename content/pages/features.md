@@ -22,7 +22,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Low Fees
+      - title: Community Voting
         content: >
           Our mission is to maximize the benefits for our investors. We are
           reducing operational costs by leveraging automation, monitoring, and
