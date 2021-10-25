@@ -90,7 +90,8 @@ export default class BlogFeedSection extends React.Component {
             <section className="section section--posts">
                 {title && (
                     <div className="container container--md align-center">
-                       <h2 className="section__title">{title}</h2>
+                       
+                        <h2 className="section__title">{title}</h2>
                     </div>
                 )}
                 <div className="container container--lg">
