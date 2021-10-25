@@ -30,7 +30,7 @@ sections:
           high-performance service that does not cost an arm and a leg to
           operate.
         align: left
-        image: /images/low-cost-861d2381.png
+        image: /images/cryptocoins-2176a4b6.jpg
         image_alt: Feature 1 placeholder image
         image_position: left
         actions:
