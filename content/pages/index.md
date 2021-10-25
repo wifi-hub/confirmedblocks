@@ -37,10 +37,25 @@ sections:
             url: /features
             style: secondary
       - title: "Coming\_ 2022"
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          **Stay tuned as we start building high-end Enterprise-class servers
+          capable of supporting the SOL network**.
+
+
+          Solana is a decentralized computing platform that uses SOL to pay for
+          transactions. Solana aims to improve blockchain scalability by using a
+          combination of proof of stake consensus and so-called evidence of
+          history. As a result, Solana claims to be able to support 50,000
+          transactions per second without sacrificing decentralization.
+
+
+          **RESOURCES:**
+
+
+          *   [Whitepaper](https://solana.com/solana-whitepaper.pdf)
+
+
+          *   [Official website](https://solana.com/)
         align: left
         image: /images/Logo-Solana.png
         image_alt: Feature 2 placeholder image
