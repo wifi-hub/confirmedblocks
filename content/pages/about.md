@@ -21,7 +21,6 @@ sections:
   - type: team_section
     title: Our Team
     team:
-
       - content/data/team/dianne-ameter.yaml
 
   - type: cta_section
