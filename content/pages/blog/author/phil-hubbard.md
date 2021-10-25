@@ -2,7 +2,7 @@
 title: Phillip Hubbard
 sections:
   - type: hero_section
-    title: All Posts By Dianne Ameter
+    title: All Posts By Phillip Hubbard
     align: center
   - type: blog_feed_section
     show_recent: false
