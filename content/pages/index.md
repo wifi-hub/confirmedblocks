@@ -65,10 +65,11 @@ sections:
             url: /features
             style: secondary
       - title: TBD
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Securing the Elrond network can be fun and profitable. (EGLD) is a
+          highly scalable, fast, and secure blockchain platform for distributed
+          apps, enterprise use cases, and the new internet economies. Pool with
+          us and improve the economic outlook of this incredible currency.
         align: left
         image: /images/elrond.png
         image_alt: Feature 3 placeholder image
