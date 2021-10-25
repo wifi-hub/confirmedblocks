@@ -93,7 +93,7 @@ sections:
     background_color: blue
 seo:
   title: ConfirmedBlocks Theme
-  description: The preview of the Starter theme
+  description: Starter Theme
   extra:
     - name: 'og:type'
       value: website
