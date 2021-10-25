@@ -24,7 +24,7 @@ sections:
       - content/data/team/phillip-hubbard.yaml
   - type: cta_section
     title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Coming Soon.
     actions: []
     has_background: true
     background_color: blue
