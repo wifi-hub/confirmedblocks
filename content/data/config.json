@@ -20,7 +20,8 @@
                 "url": "/about",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "/images/Blocks.png"
     },
     "footer": {
         "has_nav": true,
