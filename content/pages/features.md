@@ -29,7 +29,7 @@ sections:
           maintenance of our systems. The goal is to provide a secure,
           high-performance service that does not cost an arm and a leg to
           operate.
-        align: right
+        align: left
         image: /images/low-cost-861d2381.png
         image_alt: Feature 1 placeholder image
         image_position: right
