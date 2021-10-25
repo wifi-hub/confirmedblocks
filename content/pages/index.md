@@ -102,7 +102,7 @@ seo:
       value: Starter Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: Starter Theme
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
