@@ -1,5 +1,5 @@
 ---
-title: Dianne Ameter
+title: Phillip Hubbard
 sections:
   - type: hero_section
     title: All Posts By Dianne Ameter
