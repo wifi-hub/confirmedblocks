@@ -37,10 +37,21 @@ sections:
             url: /style-guide
             style: primary
       - title: Private Hosting
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Initial pool offerings live in our on-premise enterprise-class servers
+          and virtualization technology. In addition, we maintain all SSD
+          storage, dual internet, and standby batteries to ensure our service is
+          always available.
+
+
+          As the pool grows, we will transition to a hybrid cloud model. Our
+          builds are fully automated and designed for multi-cloud deployments on
+          AWS, Azure, and Google.
+
+
+          We secure all our web assets using nextgen security tools to deliver a
+          truly world-class service. In addition, high-end firewalls protect our
+          networks and provide industry-leading security and performance.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
