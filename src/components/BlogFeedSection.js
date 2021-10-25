@@ -96,7 +96,7 @@ export default class BlogFeedSection extends React.Component {
                             'bg-blue': hasBackground && backgroundColor === 'blue',
                             'bg-gray': hasBackground && backgroundColor === 'gray'
                         })}
-                    ></div>
+                    >
                         <h2 className="section__title">{title}</h2>
                     </div>
                 )}
