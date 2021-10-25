@@ -26,10 +26,7 @@ sections:
         image: /images/cryptocoins-2176a4b6.jpg
         image_alt: Feature 1 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /about
-            style: primary
+        actions: []
       - title: Private Hosting
         content: >
           Initial pool offerings live in our on-premise enterprise-class servers
