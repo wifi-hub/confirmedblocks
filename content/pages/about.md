@@ -22,14 +22,10 @@ sections:
     title: Our Team
     team:
       - content/data/team/phillip-hubbard.yaml
-
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     has_background: true
     background_color: blue
 seo:
