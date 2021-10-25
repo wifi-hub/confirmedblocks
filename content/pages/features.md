@@ -32,7 +32,7 @@ sections:
         align: left
         image: /images/low-cost-861d2381.png
         image_alt: Feature 1 placeholder image
-        image_position: right
+        image_position: left
         actions:
           - label: Learn More
             url: /about
