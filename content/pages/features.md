@@ -47,10 +47,7 @@ sections:
         image: /images/cloudlogos3.png
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /blog
-            style: primary
+        actions: []
 seo:
   title: Features
   description: This is the features page
