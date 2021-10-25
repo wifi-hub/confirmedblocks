@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Low Fees
+      - title: No hidden costs
         content: >
           Our mission is to maximize the benefits for our investors. We are
           reducing operational costs by leveraging automation, monitoring, and
