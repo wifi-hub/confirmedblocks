@@ -20,8 +20,12 @@ sections:
         image_position: right
         actions: []
       - title: Community Voting
-        content: |
-          We will offer community voting for the next staking pools
+        content: >+
+          As ConfirmedBlocks grows, we plan on implementing a voting system to
+          allow our investors to determine what currencies are onboarded. We
+          genuinely believe in a community-first model. When customers are
+          engaged in the business, we all succeed!
+
         align: left
         image: /images/cryptocoins-2176a4b6.jpg
         image_alt: Feature 1 placeholder image
