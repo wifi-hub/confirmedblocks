@@ -99,7 +99,7 @@ seo:
       value: Crypto for the Masses
       keyName: property
     - name: 'og:description'
-      value: Starter Theme
+      value: Crypto for the Masses
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
