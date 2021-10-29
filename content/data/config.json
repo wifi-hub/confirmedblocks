@@ -20,7 +20,8 @@
                 "url": "/about",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "/images/Black logo - no background.png"
     },
     "footer": {
         "has_nav": true,
