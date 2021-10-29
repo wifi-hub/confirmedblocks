@@ -27,6 +27,7 @@ export default class CtaSection extends React.Component {
                             
                             {title && <h2 className="section__title">{title}</h2>}
                             {subtitle && <div className="section__copy"><p>{subtitle}</p></div>}
+                            <img src={withPrefix(image)} alt={imageAlt} />
                             {!_.isEmpty(actions) && (
                                 <div className="section__actions btn-group">
                                     <SectionActions actions={actions} />
