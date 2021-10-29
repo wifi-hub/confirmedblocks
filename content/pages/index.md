@@ -110,7 +110,7 @@ seo:
     - name: 'twitter:title'
       value: Crypto for the Masses
     - name: 'twitter:description'
-      value: Starter Theme
+      value: Crypto for the Masses
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
