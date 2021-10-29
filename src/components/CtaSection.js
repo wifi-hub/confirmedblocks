@@ -24,6 +24,23 @@ export default class CtaSection extends React.Component {
                         })}
                     >
                         <div className="container container--md">
+                            {image && (
+                            <div
+                                className={classNames('cell', 'section__media', {
+                                    'section__media--right': imagePosition === 'right'
+                                })}
+                            >
+                                <img src={withPrefix(image)} alt={imageAlt} />
+                            </div>
+                        )}
+                        <div className="cell section__body">
+                            {title && <h1 className="section__title">{title}</h1>}
+                            {subtitle && <div className="section__copy"><p>{subtitle}</p></div>}
+                            {!_.isEmpty(actions) && (
+                                <div className="section__actions btn-group">
+                                    <SectionActions actions={actions} />
+                                </div>
+                            )}
                             {title && <h2 className="section__title">{title}</h2>}
                             {subtitle && <div className="section__copy"><p>{subtitle}</p></div>}
                             {!_.isEmpty(actions) && (
