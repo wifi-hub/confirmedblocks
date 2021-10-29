@@ -59,5 +59,6 @@
         ],
         "content": "&copy; ConfirmedBlocks. All rights reserved."
     },
-    "domain": "https://confirmedblocks-6d409.netlify.app"
+    "domain": "https://confirmedblocks-6d409.netlify.app",
+    "favicon": "/images/Color logo - no background-9ca7140b.png"
 }
