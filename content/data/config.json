@@ -20,7 +20,8 @@
                 "style": "link"
             }
         ],
-        "title": "Home"
+        "title": "Home",
+        "logo": "/images/Color logo - no background-840dd787.png"
     },
     "footer": {
         "has_nav": true,
