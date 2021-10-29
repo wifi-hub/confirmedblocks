@@ -90,7 +90,7 @@ sections:
     background_color: blue
 seo:
   title: ConfirmedBlocks Theme
-  description: Starter Theme
+  description: Crypto 
   extra:
     - name: 'og:type'
       value: website
