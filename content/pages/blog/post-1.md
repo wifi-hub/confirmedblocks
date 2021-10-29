@@ -5,7 +5,7 @@ author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
-image: /images/cardano-ada-2-c3919588.jpg
+image: /images/Color logo - no background-840dd787.png
 image_alt: Post 1 placeholder image
 excerpt: Building a node
 seo:
