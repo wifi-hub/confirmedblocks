@@ -11,7 +11,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/Color logo - no background.png
+    image: /images/White logo - no background.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
