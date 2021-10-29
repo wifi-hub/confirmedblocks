@@ -19,7 +19,8 @@
                 "url": "/about",
                 "style": "link"
             }
-        ]
+        ],
+        "title": "Crypto"
     },
     "footer": {
         "has_nav": true,
