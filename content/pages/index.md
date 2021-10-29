@@ -96,7 +96,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Starter Theme
+      value: Crypto for the Masses
       keyName: property
     - name: 'og:description'
       value: Starter Theme
