@@ -108,7 +108,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Starter Theme
+      value: Crypto for the Masses
     - name: 'twitter:description'
       value: Starter Theme
     - name: 'twitter:image'
