@@ -89,7 +89,7 @@ sections:
     has_background: true
     background_color: blue
 seo:
-  title: ConfirmedBlocks Theme
+  title: ConfirmedBlocks
   description: Crypto for the Masses
   extra:
     - name: 'og:type'
