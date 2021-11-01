@@ -35,7 +35,7 @@ export default class MyDocument extends Document {
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <NextScript />
-                </body>
+                <<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "ac3098fe5f7f45da81e51d66b3e5df6f"}'></script><!-- End Cloudflare Web Analytics --></body>/body>
             </Html>
         );
     }
