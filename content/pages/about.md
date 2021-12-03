@@ -5,8 +5,11 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: |
-      Company description
+    content: >
+      Our mission is to help investors increase cryptocurrency assets by
+      participating in "Non-Custodial" staking; this means you are always in
+      control of your funds and can rest assured, your delegation is always
+      safe!
   - type: team_section
     title: Our Team
     team:
